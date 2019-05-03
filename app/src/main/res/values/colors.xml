@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+  <color name="colorPrimary">#F5F7FA</color>
+  <color name="colorPrimaryDark">#F5F7FA</color>
+  <color name="colorAccent">#D81B60</color>
+
+  <color name="app_theme_color">#3D7EFF</color>
+  <!--一级信息，标题，主内容文字等-->
+  <color name="title_color">#303133</color>
+  <!--普通级别文字，正文内容文字等-->
+  <color name="content_color">#606266</color>
+  <!--辅助文字，次要信息等-->
+  <color name="auxiliary_text_color">#909399</color>
+
+  <!--输入框提示文字-->
+  <color name="edit_hint_text">#BFC2CC</color>
+  <!--分割线，按钮边框，至灰按钮背景等-->
+  <color name="divider_color">#EDEFF2</color>
+  <!--页面最底层背景等-->
+  <color name="root_background_color">#F5F7FA</color>
+
 </resources>
