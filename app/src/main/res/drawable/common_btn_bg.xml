@@ -3,9 +3,9 @@
 
   <solid android:color="@color/app_theme_color"/>
   <corners
-      android:radius="20dp"/>
+      android:radius="22dp"/>
 
     <size
-       android:height="40dp"/>
+       android:height="44dp"/>
 
 </shape>
