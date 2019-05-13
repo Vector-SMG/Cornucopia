@@ -1,4 +1,4 @@
-package com.cornucopia.github.common.http.core.transformer;
+package com.cornucopia.github.common.http.transformer;
 
 import io.reactivex.Observable;
 import io.reactivex.ObservableSource;

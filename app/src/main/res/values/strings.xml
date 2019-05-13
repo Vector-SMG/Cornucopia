@@ -4,4 +4,16 @@
   <string name="github_account_or_email_hint">用户名/邮箱</string>
   <string name="github_password_hint">请输入密码</string>
   <string name="github_login_text">登录</string>
+
+  <string name="client_id">b2eff99b4041d58946d3</string>
+  <string name="client_secret">c9596586c6485063b05323872be9440d80f2ddff</string>
+  <string name="note">Cornucopia</string>
+
+  <string-array name="repos">
+    <item>user</item>
+    <item>repo</item>
+    <item>gist</item>
+    <item>notifications</item>
+  </string-array>
+
 </resources>

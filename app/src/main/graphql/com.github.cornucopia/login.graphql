@@ -1,0 +1,6 @@
+query login{
+    viewer {
+      login
+      email
+    }
+}
